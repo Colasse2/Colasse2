@@ -7,7 +7,7 @@ Je suis Sébastien COLASSE, un développeur passionné de développement web. J'
 
 ## ✏️ Mes Projet
 Retrouvez ici la liste des projets que j'ai pu réaliser :
-*  __Mini-Jeux__  - Développement d'une application de minijeux avec le morpion, le jeu des allumettes et un puissance 4. (2022-2023) (Terminé): :![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+*  __Mini-Jeux__  - Développement d'une application de minijeux avec le morpion, le jeu des allumettes et un puissance 4. (2022-2023) (Terminé): ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white),
 *  __Le Verger__  - Développement d'un jeu de plateau interactif, un Java/Java Fx (2023) (Terminé)
 *    __BDD__      - Réalisation d'une application web de remontée de données (2023-... (En cours)
 *  __Fils Rouge__ - Réalisation d'une filmothèque en ligne via bootstrap (2023-... (En cours)
