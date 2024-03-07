@@ -6,14 +6,15 @@ Je suis Sébastien COLASSE, un développeur passionné de développement web. J'
 * 🏢 Je suis ouvert à toute proposition de projet ou de collaboration.
 
 ## ✏️ Mes Projet
-Retrouvez ici la liste des projet que j'ai pus réaliser :
-*  __Mini-Jeux__  - Developpement d'une application de minijeux avec le morpion, le jeu des allumette et un puissance 4.(2022-2023)(Terminé)
-*  __Le Verger__  - Developpemnt d'un jeu de plateau interactif,en Java/Java Fx (2023)(Terminé)
-*    __BDD__      - Réalisation d'une appliation web de remonté de données (2023-...)(En cours)
-*  __Fils Rouge__ - Réalisation d'une filmotheque en ligne via bootstrap (2023-...)(En cours)
-*   __Méteo__     - Création d'une application Android/Ios de méteo (2023-...)(En cours)
+Retrouvez ici la liste des projets que j'ai pu réaliser :
+*  __Mini-Jeux__  - Développement d'une application de minijeux avec le morpion, le jeu des allumettes et un puissance 4. (2022-2023) (Terminé): :![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+*  __Le Verger__  - Développement d'un jeu de plateau interactif, un Java/Java Fx (2023) (Terminé)
+*    __BDD__      - Réalisation d'une application web de remontée de données (2023-... (En cours)
+*  __Fils Rouge__ - Réalisation d'une filmothèque en ligne via bootstrap (2023-... (En cours)
+*   __Méteo__     - Création d'une application Android/iOS de méteo (2023-... (En cours)
 
 ## 🛠️ Mes compétences 
+Voici la liste des language et framwork que je metrise 
 
 ## 💁 Soft Skills
 
