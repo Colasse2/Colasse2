@@ -1,0 +1,33 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
+labels = ['Communication', 'Travail en équipe', 'Gestion du temps', 'Adaptabilité', 'Résolution de problèmes', 'Esprit critique']
+values = [4, 5, 3, 4, 5, 4] 
+
+# Nombre de variables
+num_vars = len(labels)
+
+# Calcul des angles pour chaque axe
+angles = np.linspace(0, 2 * np.pi, num_vars, endpoint=False).tolist()
+
+# Répéter la première valeur pour fermer le graphique
+values += values[:1]
+angles += angles[:1]
+
+# Initialiser le graphique radar avec une taille de fenêtre plus grande
+fig, ax = plt.subplots(figsize=(10, 10), subplot_kw=dict(polar=True))
+
+# Tracer les données
+ax.fill(angles, values, color='blue', alpha=0.25)
+ax.plot(angles, values, color='blue', linewidth=2)
+
+# Ajouter les étiquettes des axes
+ax.set_yticklabels([])
+ax.set_xticks(angles[:-1])
+ax.set_xticklabels(labels)
+
+# Sauvegarder le graphique en tant qu'image
+plt.savefig('path/to/radar_chart.png')
+
+# Afficher le graphique
+plt.show()
