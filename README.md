@@ -76,6 +76,30 @@ Retrouvez ici la liste des projets que j'ai pu réaliser :
 
 ## 💁 Soft Skills
 
+### Communication
+
+Je suis capable de communiquer efficacement avec les membres de l'équipe et les clients, en utilisant des compétences verbales et écrites pour transmettre des idées et des informations clairement.
+
+### Travail d'équipe
+
+Je travaille bien en équipe, en collaborant avec les autres pour atteindre des objectifs communs et en apportant mon soutien et mon expertise lorsque cela est nécessaire.
+
+### Gestion du temps
+
+Je gère efficacement mon temps, en priorisant les tâches et en respectant les délais pour assurer la livraison des projets dans les temps impartis.
+
+### Résolution de problèmes
+
+Je suis capable d'identifier et de résoudre les problèmes de manière proactive, en utilisant des compétences analytiques et créatives pour trouver des solutions efficaces.
+
+### Adaptabilité
+
+Je m'adapte facilement aux nouvelles situations et aux changements, en restant flexible et ouvert aux nouvelles idées et aux nouvelles méthodes de travail.
+
+### Leadership
+
+Je possède des compétences en leadership, en guidant et en motivant les membres de l'équipe pour atteindre les objectifs du projet et en assurant un environnement de travail positif.
+
 <div align="center">
   <img src="radar_chart.png" alt="Radar Chart" width="300" />
 </div>
