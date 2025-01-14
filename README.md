@@ -109,7 +109,6 @@ Je possède des compétences en leadership, en guidant et en motivant les membre
 - 🎬 Cinéma
 - ✈️ Voyage
 - 🚗 Voiture
-- 🍷 Alcool
 
 ## 📬 Me Contacter
 
