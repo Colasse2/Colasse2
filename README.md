@@ -76,18 +76,14 @@ Retrouvez ici la liste des projets que j'ai pu réaliser :
 
 ## 💁 Soft Skills
 
-- Communication
-- Travail en équipe
-- Gestion du temps
-- Adaptabilité
-- Résolution de problèmes
-- Esprit critique
+![Radar Chart](path/to/radar_chart.png)
 
 ## 🎨 Hobby
 
 - 🎬 Cinéma
 - ✈️ Voyage
 - 🚗 Voiture
+- 🍷 Alcool
 
 ## 📬 Me Contacter
 
