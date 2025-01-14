@@ -88,7 +88,6 @@ Retrouvez ici la liste des projets que j'ai pu réaliser :
 - 🎬 Cinéma
 - ✈️ Voyage
 - 🚗 Voiture
-- 🍷 Alcool
 
 ## 📬 Me Contacter
 
