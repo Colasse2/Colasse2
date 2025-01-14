@@ -83,6 +83,13 @@ Retrouvez ici la liste des projets que j'ai pu réaliser :
 - Résolution de problèmes
 - Esprit critique
 
+## 🎨 Hobby
+
+- 🎬 Cinéma
+- ✈️ Voyage
+- 🚗 Voiture
+- 🍷 Alcool
+
 ## 📬 Me Contacter
 
 - Email: [sebastien.colasse@example.com](mailto:sebastien.colasse@etu.unilim.fr)
