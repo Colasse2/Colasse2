@@ -76,7 +76,7 @@ Retrouvez ici la liste des projets que j'ai pu réaliser :
 
 ## 💁 Soft Skills
 
-![Radar Chart](path/to/radar_chart.png)
+![Radar Chart](radar_chart.png)
 
 ## 🎨 Hobby
 
