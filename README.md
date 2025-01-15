@@ -56,7 +56,7 @@ Retrouvez ici la liste des projets que j'ai pu réaliser :
 
 ### Tests
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)  ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 
 ### Mobile
 
@@ -78,27 +78,27 @@ Retrouvez ici la liste des projets que j'ai pu réaliser :
 
 ### Communication
 
-Je suis capable de communiquer efficacement avec les membres de l'équipe et les clients, en utilisant des compétences verbales et écrites pour transmettre des idées et des informations clairement.
+Lors du développement de **Mini-Jeux**, j'ai communiqué efficacement avec les membres de l'équipe pour définir les règles des jeux et les implémenter correctement.
 
 ### Travail d'équipe
 
-Je travaille bien en équipe, en collaborant avec les autres pour atteindre des objectifs communs et en apportant mon soutien et mon expertise lorsque cela est nécessaire.
+Pendant le projet **Le Verger**, j'ai collaboré avec d'autres développeurs pour créer un jeu de plateau interactif, en apportant mon soutien et mon expertise.
 
 ### Gestion du temps
 
-Je gère efficacement mon temps, en priorisant les tâches et en respectant les délais pour assurer la livraison des projets dans les temps impartis.
+Pour le projet **BDD**, j'ai géré efficacement mon temps pour respecter les délais et assurer la livraison de l'application web dans les temps impartis.
 
 ### Résolution de problèmes
 
-Je suis capable d'identifier et de résoudre les problèmes de manière proactive, en utilisant des compétences analytiques et créatives pour trouver des solutions efficaces.
+Dans le cadre du projet **Projet Tutore**, j'ai identifié et résolu des problèmes complexes liés aux statistiques, en utilisant des compétences analytiques et créatives.
 
 ### Adaptabilité
 
-Je m'adapte facilement aux nouvelles situations et aux changements, en restant flexible et ouvert aux nouvelles idées et aux nouvelles méthodes de travail.
+Lors de la création de l'application **Météo**, j'ai dû m'adapter aux nouvelles technologies et aux changements de spécifications pour livrer une application fonctionnelle.
 
 ### Leadership
 
-Je possède des compétences en leadership, en guidant et en motivant les membres de l'équipe pour atteindre les objectifs du projet et en assurant un environnement de travail positif.
+En tant que leader du projet **Mingoton**, j'ai guidé et motivé les membres de l'équipe pour atteindre les objectifs du projet et assurer un environnement de travail positif.
 
 <div align="center">
   <img src="radar_chart.png" alt="Radar Chart" width="300" />
