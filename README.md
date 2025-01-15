@@ -27,7 +27,7 @@ Retrouvez ici la liste des projets que j'ai pu réaliser :
 - **Météo** - Création d'une application Android/iOS de météo (2023-2024) (Terminé):  
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 
-- **Projet Tutore** - Développement d'une application de statistique (2024 - 2025) (Terminé):  
+- **Projet Tutore** - Développement d'une application de statistique (2024 - ) :  
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-215732?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 - **Mingoton** - Réalisation d'une application de cuisine (2024) (Terminé):  
