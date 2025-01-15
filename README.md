@@ -82,11 +82,11 @@ Lors du développement de **Mini-Jeux**, j'ai communiqué efficacement avec les 
 
 ### Travail d'équipe
 
-Pendant le projet **Le Verger**, j'ai collaboré avec d'autres développeurs pour créer un jeu de plateau interactif, en apportant mon soutien et mon expertise.
+Pendant les projet, j'ai collaboré avec d'autres développeurs pour créer un jeu de plateau interactif, en apportant mon soutien et mon expertise.
 
 ### Gestion du temps
 
-Pour le projet **BDD**, j'ai géré efficacement mon temps pour respecter les délais et assurer la livraison de l'application web dans les temps impartis.
+Pour les projet, j'ai géré efficacement mon temps pour respecter les délais et assurer la livraison de l'application web dans les temps impartis.
 
 ### Résolution de problèmes
 
@@ -95,10 +95,6 @@ Dans le cadre du projet **Projet Tutore**, j'ai identifié et résolu des probl�
 ### Adaptabilité
 
 Lors de la création de l'application **Météo**, j'ai dû m'adapter aux nouvelles technologies et aux changements de spécifications pour livrer une application fonctionnelle.
-
-### Leadership
-
-En tant que leader du projet **Mingoton**, j'ai guidé et motivé les membres de l'équipe pour atteindre les objectifs du projet et assurer un environnement de travail positif.
 
 <div align="center">
   <img src="radar_chart.png" alt="Radar Chart" width="300" />
