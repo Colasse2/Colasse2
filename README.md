@@ -96,6 +96,10 @@ Dans le cadre du projet **Projet Tutore**, j'ai identifié et résolu des probl�
 
 Lors de la création de l'application **Météo**, j'ai dû m'adapter aux nouvelles technologies et aux changements de spécifications pour livrer une application fonctionnelle.
 
+### Esprit Critique
+
+En travaillant sur le projet **Projet Tutore**, j'ai analysé et évalué différentes approches pour optimiser la performance de la filmothèque en ligne, en prenant des décisions éclairées basées sur des données et des tests.
+
 <div align="center">
   <img src="radar_chart.png" alt="Radar Chart" width="300" />
 </div>
