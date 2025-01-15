@@ -28,7 +28,7 @@ Retrouvez ici la liste des projets que j'ai pu réaliser :
 - **Météo** - Création d'une application Android/iOS de météo (2023-2024) (Terminé):  
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 
-- **Projet Tutore** - Développement d'une application de statistique (2024 - ) :  
+- **Projet Stats** - Développement d'une application de statistique (2024 - ) :  
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-215732?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 - **Mingoton** - Réalisation d'une application de cuisine (2024) (Terminé):  
@@ -91,7 +91,7 @@ Pour les projet, j'ai géré efficacement mon temps pour respecter les délais e
 
 ### Résolution de problèmes
 
-Dans le cadre du projet **Projet Tutore**, j'ai identifié et résolu des problèmes complexes liés aux statistiques, en utilisant des compétences analytiques et créatives.
+Dans le cadre du projet **Projet Stats**, j'ai identifié et résolu des problèmes complexes liés aux statistiques, en utilisant des compétences analytiques et créatives.
 
 ### Adaptabilité
 
@@ -99,7 +99,7 @@ Lors de la création de l'application **Météo**, j'ai dû m'adapter aux nouvel
 
 ### Esprit Critique
 
-En travaillant sur le projet **Projet Tutore**, j'ai analysé et évalué différentes approches pour optimiser la performance de la filmothèque en ligne, en prenant des décisions éclairées basées sur des données et des tests.
+En travaillant sur le projet **Projet Stats**, j'ai analysé et évalué différentes approches pour optimiser la performance de la filmothèque en ligne, en prenant des décisions éclairées basées sur des données et des tests.
 
 <div align="center">
   <img src="radar_chart.png" alt="Radar Chart" width="300" />
