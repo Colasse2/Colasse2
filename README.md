@@ -56,7 +56,7 @@ Retrouvez ici la liste des projets que j'ai pu réaliser :
 
 ### Tests
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![Pylint](https://img.shields.io/badge/Pylint-4B8BBE?style=flat&logo=python&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)  ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 
 ### Mobile
 
@@ -68,7 +68,7 @@ Retrouvez ici la liste des projets que j'ai pu réaliser :
 
 ### Outils de Développement
 
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white) ![Pylint](https://img.shields.io/badge/Pylint-4B8BBE?style=flat&logo=python&logoColor=white)
 
 ### Systèmes d'Exploitation
 
