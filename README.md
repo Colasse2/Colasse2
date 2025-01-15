@@ -112,5 +112,5 @@ Je possède des compétences en leadership, en guidant et en motivant les membre
 
 ## 📬 Me Contacter
 
-- Email: [sebastien.colasse@example.com](mailto:sebastien.colasse@etu.unilim.fr)
+- Email: [sebastien.colasse@etu.unilim.fr](mailto:sebastien.colasse@etu.unilim.fr)
 - LinkedIn: [Sébastien COLASSE](https://www.linkedin.com/in/s%C3%A9bastien-colasse-349942276/)
